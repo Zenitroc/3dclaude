@@ -1,0 +1,17 @@
+{
+ "result": "FAIL",
+ "failed": [
+  "front"
+ ],
+ "time": 1794503289.4182096,
+ "model": "/home/user/3dclaude/models/figura/parts",
+ "reference": "/home/user/3dclaude/models/figura/reference_clean.png",
+ "views": [
+  {
+   "name": "front",
+   "gated": true,
+   "iou": 0.916,
+   "aspect": 0.005
+  }
+ ]
+}
